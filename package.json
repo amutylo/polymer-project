@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "name": "polymer-project",
+  "workspaceRoot": "demo-server",
   "private": true,
   "devDependencies": {
     "express": "~4.12.4"
